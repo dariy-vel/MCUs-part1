@@ -1,0 +1,26 @@
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Projects\Learning\mcs\lab2\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\Projects\Learning\mcs\lab2\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\Projects\Learning\mcs\lab2\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\Projects\Learning\mcs\lab2\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\Projects\Learning\mcs\lab2\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\Projects\Learning\mcs\lab2\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\Projects\Learning\mcs\lab2\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\Projects\Learning\mcs\lab2\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects\Learning\mcs\lab2\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
