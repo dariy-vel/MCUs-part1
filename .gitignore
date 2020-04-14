@@ -1,0 +1,5 @@
+*.rar
+*.workspace
+*.pdsbak
+*.with_bootloader.*
+*.exe
