@@ -37,6 +37,9 @@ ISR(TIMER0_COMPA_vect)
   }
   setDisplayPort(toShow[counterSegments]);
   digitalWrite(digits[counterSegments], HIGH);
+  if(counterSegments == 1 || counterSegments == 3){
+    PORT_DISPLAY &= ~(1 << 7);
+  }
   if (++counterSegments == 6)
     counterSegments = 0;
     
