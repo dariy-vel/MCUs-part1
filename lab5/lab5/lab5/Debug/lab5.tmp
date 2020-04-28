@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>E:\Projects\Learning\mcs\lab5\lab5\lab5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\Debug\lab5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab5.map</FILE>
+  <FILE>lab5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>46</LINE></Reset>
+  <TIMER5_COMPA><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>86</LINE></TIMER5_COMPA>
+  <Main><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>148</LINE></Main>
+  <Algo1><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>99</LINE></Algo1>
+  <Algo2><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>121</LINE></Algo2>
+  <EndAlgo1><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>114</LINE></EndAlgo1>
+  <EndAlgo2><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>140</LINE></EndAlgo2>
+  <NextStage><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>136</LINE></NextStage>
+  <StartAlgo1><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>163</LINE></StartAlgo1>
+  <StartAlgo2><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>172</LINE></StartAlgo2>
+  <EndBut><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>157</LINE></EndBut>
+  <delay200ms><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>181</LINE></delay200ms>
+  <delay><FILE>E:\Projects\Learning\mcs\lab5\lab5\lab5\main.asm</FILE><LINE>185</LINE></delay>
+ </LABELS>
+</ASSEMBLER_INFO>
