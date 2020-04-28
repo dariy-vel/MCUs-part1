@@ -3,3 +3,4 @@
 *.pdsbak
 *.with_bootloader.*
 *.exe
+.*/
