@@ -1,0 +1,15 @@
+COM0
+COM1
+COM2
+COM3
+COM4
+/dev/ttyACM0
+/dev/ttyACM1
+/dev/ttyACM2
+/dev/ttyACM3
+/dev/ttyACM4
+/dev/ttyUSB0
+/dev/ttyUSB1
+/dev/ttyUSB2
+/dev/ttyUSB3
+/dev/ttyUSB4
